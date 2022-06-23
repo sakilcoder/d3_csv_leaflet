@@ -47,7 +47,7 @@ var googleTerrain = L.tileLayer('http://{s}.google.com/vt/lyrs=p&x={x}&y={y}&z={
 });
 
 var noBasemap=L.tileLayer('',{
-	maxZoom: 19
+	maxZoom: 20
 });
 
 

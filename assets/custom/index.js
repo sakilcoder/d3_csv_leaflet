@@ -8,10 +8,10 @@ const csvUrl = 'assets/data/pois.csv';
 let travers = 0;
 // --------------------------------------------------------------------
 
-var tulumLayer = L.geoJSON(tulum, {
-    style: styleArea,
-    onEachFeature: onEachArea,
-});
+// var tulumLayer = L.geoJSON(tulum, {
+//     style: styleArea,
+//     onEachFeature: onEachArea,
+// });
 
 var aoiLayer = L.geoJSON(aoi, {
     style: styleAoi,
@@ -24,15 +24,17 @@ var markers = L.layerGroup();
 
 var map = L.map('map', {
     center: [20.204919296905683, -87.47374525771015],
-    zoom: 17,
-    layers: [noBasemap, tulumLayer, aoiLayer, markers] // default checked layers
+    zoom: 16,
+    layers: [googleTerrain, aoiLayer, markers] // default checked layers
 });
 
+map.options.minZoom = 14;
+
 var baseLayers = {
+    'Street': googleTerrain,
+    'Satellite': googleSat,
     'No Basemap': noBasemap,
-    'OSM': OpenStreetMap_Mapnik,
-    'Street': Esri_WorldStreetMap,
-    'Satellite': Esri_WorldImagery
+    // 'OSM': OpenStreetMap_Mapnik,
 
 };
 
@@ -75,7 +77,7 @@ fetchText(csvUrl).then(text => {
 });
 
 var overlays = {
-    'Tulum': tulumLayer,
+    // 'Tulum': tulumLayer,
     'AOI': aoiLayer,
     'Markers': markers
 };

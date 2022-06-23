@@ -7,11 +7,11 @@ var styleArea = {
     fillOpacity: .8
 }
 var styleAoi = {
-    weight: 0.8,
+    weight: 2,
     color: "#fff",
     opacity: 1,
     fillColor: "#719b6b",
-    fillOpacity: .8
+    fillOpacity: .1
 }
 
 let GoogleIcon = function (html) {
