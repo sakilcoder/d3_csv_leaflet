@@ -78,7 +78,7 @@ fetchText(csvUrl).then(text => {
 
 var overlays = {
     // 'Tulum': tulumLayer,
-    'AOI': aoiLayer,
+    'La Veleta': aoiLayer,
     'Markers': markers
 };
 

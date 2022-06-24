@@ -8,7 +8,7 @@ var styleArea = {
 }
 var styleAoi = {
     weight: 2,
-    color: "#fff",
+    color: "#026102",
     opacity: 1,
     fillColor: "#719b6b",
     fillOpacity: .1

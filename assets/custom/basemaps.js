@@ -46,6 +46,8 @@ var googleTerrain = L.tileLayer('http://{s}.google.com/vt/lyrs=p&x={x}&y={y}&z={
     subdomains:['mt0','mt1','mt2','mt3']
 });
 
+
+
 var noBasemap=L.tileLayer('',{
 	maxZoom: 20
 });
