@@ -44,7 +44,7 @@ function onEachMarker(feature, layer) {
     layer.setIcon(icon1);
 
     if(travers == 0){
-        // layer.setIcon(icon2);
+        layer.setIcon(icon2);
 
         if (feature.properties.star !== '')
             document.getElementById('name').innerHTML = feature.properties.name + '(<i class="fa fa-star" style="color: orange"></i>)';
@@ -77,6 +77,9 @@ function onEachMarker(feature, layer) {
     // layer.on('click', function(e) {
     //     console.log(e);
     // });
+
+    console.log(feature.properties.type);
+    console.log(icon2.options.html);
 
     layer.on('mouseover', function (e) {
 
@@ -130,10 +133,10 @@ var getIcon = function (type) {
         gi2 = '<i class="material-icons g-icon-i-l" style="font-size:16px; color: #026102">restaurant</i>';
         gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">restaurant</i>';
     } else if (type == 'Grocery, Supermarket, Restaurant, Bakery, Cafe') {
-        gi = '<i class="fas fa-shopping-cart g-icon-i" style="font-size:12px; color: #026102"></i>';
-        gi2 = '<i class="fas fa-shopping-cart g-icon-i-l" style="font-size:14px; color: #026102"></i>';
-        gi3 = '<i class="fas fa-shopping-cart g-icon-i-l" style="font-size:56px; color: #026102"></i>';
-    } else if (type == 'Convenience Store') {
+        gi = '<i class="fas fa-shopping-cart" style="font-size:12px; color: #026102"></i>';
+        gi2 = '<i class="fas fa-shopping-cart" style="font-size:14px; color: #026102"></i>';
+        gi3 = '<i class="fas fa-shopping-cart" style="font-size:56px; color: #026102"></i>';
+    } else if (type === 'Convenience store') {
         gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">store_mall_directory</i>';
         gi2 = '<i class="material-icons g-icon-i-l" style="font-size:16px; color: #026102">store_mall_directory</i>';
         gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">store_mall_directory</i>';

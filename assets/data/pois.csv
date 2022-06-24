@@ -1,53 +1,47 @@
 id,name,star,type,comments,hours,map_url,latlon,image
-1,Mini Super El Veleta,,Convenience store,"Open late.  This is the go-to tienda (convenience store) for many people.  They’re stocked to the rafters with all kinds of stuff.  Note:  Mexico prohibits the sale of alcohol after certain hours on certain days.  Let’s just say some places will look the other way, for a fee, if you run into this particular situation.","Sunday		7am - 11:30pm
-Monday		7am - 11:30pm
-Tuesday		7am - 11:30pm
-Wednesday	7am - 11:30pm
-Thursday	7am - 11:30pm
-Friday		7am - 11:30pm
-Saturday	7am - 11:30pm",https://goo.gl/maps/FczujBgzKoEpPZU39,"20.20141856758711, -87.47804030723151",1.jpg
-2,Pepe’s Best Tacos in Tulum ,1,"Restaurant, Bakery",This is your traditional Mexican street tacos stand. Amazing sauces. Recommend the torta.,"Sunday		Closed
-Monday		7–11PM
-Tuesday		7–11PM
-Wednesday	7–11PM
-Thursday	7–11PM
-Friday		7–11PM
-Saturday	7–11PM",https://goo.gl/maps/iqWWTAP5uroGsNFs6,"20.201844016957583, -87.47688493063761",2.jpg
-3,Mariachi Bubble Tea ,1,Cafe,,"Sunday		Closed
-Monday		5–9:30PM
-Tuesday		5–9:30PM
-Wednesday	5–9:30PM
-Thursday	5–9:30PM
-Friday		5–9:30PM
-Saturday	5–9:30PM",https://goo.gl/maps/uaiHd5MNFXxYwBHz7,"20.201760949241578, -87.47689565941991",3.jpg
-4,La Casa Del Barrio ,1,"Restaurant, Bakery, Cafe",Go after 3pm so you can sit upstairs. Also the better chef works at this time.  Recommend the fish tacos here.,"Sunday		7AM–3PM
-Monday		7AM–11PM
-Tuesday		7AM–11PM
-Wednesday	7AM–3PM
-Thursday	7AM–11PM
-Friday		7AM–11PM
-Saturday	7AM–11PM",https://goo.gl/maps/LpqurniLNfhDBDdJ6,"20.409135121743013, -87.47280106171743",4.jpg
-5,Nayna,,"Restaurant, Bakery, Cafe",,"Sunday		Closed
-Monday		9AM–3PM
-Tuesday		9AM–3PM
-Wednesday	9AM–3PM
-Thursday	9AM–3PM
-Friday		9AM–3PM
-Saturday	9AM–3PM",https://goo.gl/maps/xuhBw76CydmQJxjm6,"20.20313505952593, -87.4769730968131",5.jpg
-6,La Taqueria,,"Restaurant, Bakery, Cafe","Nice place to sit at night, or in the afternoon.  Expect big-city U.S. prices, or something close.  This commercial block also has ATV rentals, Argentinian ice cream, pet food, and a women’s clothing store.","Sunday		9AM–12AM
-Monday		9AM–12AM
-Tuesday		9AM–12AM
-Wednesday	9AM–12AM
-Thursday	9AM–12AM
-Friday		9AM–12AM
-Saturday	9AM–12AM",https://goo.gl/maps/T3dceUjCXmvaSC9t8,"20.202170592610372, -87.47687562422264",6.jpg
-7,Tres Galeones Tulum,,"Restaurant, Bakery",Palapa shaped like a boat. Food and service is outstanding. Only thing that gives me pause is they always bake in a tip / service charge of 15% and then ask you for another tip when you pay.,"Sunday		5PM–12AM
-Monday		5PM–12AM
-Tuesday		5PM–12AM
-Wednesday	5PM–12AM
-Thursday	5PM–12AM
-Friday		5PM–12AM
-Saturday	5PM–12AM",https://goo.gl/maps/C9bpHCzMpkpMTHFW8,"20.201974881919515, -87.47632975893542",7.jpg
+42,Asian Bodega,,"Restaurant, Bakery",Goes off at night at times.,"Sunday		6–10:30PM
+Monday		6–10:30PM
+Tuesday		6–11PM
+Wednesday	Closed
+Thursday	6–10:30PM
+Friday		6–10:30PM
+Saturday	6–10:30PM",https://goo.gl/maps/NjZrWiAreCQRWapx6,"20.20614338242074, -87.4784341635345",42.jpg
+30,Banco Azteca,,"ATM, Bank","Small max withdrawal limits from the single ATM.  (ATM works 24 hours.)  Currently 6k pesos.  (About $300 USD.). Recommended to go to HSBC in town.  There you can pull up to 15k in one pop, and do multiple withdrawals back-to-back-to-back.  The middle ATM at HSBC also dispenses USD.  There are also a lot of ATMs inside Chedraui, for instance Citibank and BaNorte (lowest two withdrawal fees at under $2 each.). Note:  Don’t be surprised if many ATMs are empty on Monday mornings or after long / holiday weekends.  Also, highly recommend travelers use the Charles Schwab Invest First Visa.  No ATM fees, and they reimburse you all ATM fees you incur abroad.  Amazing.  Not to mention if you deny the exchange conversion on an ATM, allowing Schwab to do the conversion, you’ll get the mid-market rate, which is what you see on XE.com.  If you hit the “accept exchange rate” on an ATM, you’re getting robbed around 5.5%.","Sunday		9AM–9PM
+Monday		9AM–9PM
+Tuesday		9AM–9PM
+Wednesday	9AM–9PM
+Thursday	9AM–9PM
+Friday		9AM–9PM
+Saturday	9AM–9PM",https://goo.gl/maps/tYwBtdDW4xiirHAv6,"20.208389241668677, -87.47125625582122",30.jpg
+27,Barberos Tulum,,,"Excellent service and price.  Pay about $12 USD for just a basic cut.  Would recommend this way more than other locations.  They use high-end equipment and every barber I’ve seen there is committed to doing an excellent job.  Best fades I’ve found.  Lot of hipsters also satisfied with intricate cuts here.  Go-to for all types of hair from all ethnicities.  (Many black men also seem to like “The Hustler”, but I don’t have experience there and know that establishment charges more, if that’s important.)","Sunday		10AM–8PM
+Monday		9AM–9PM
+Tuesday		9AM–9PM
+Wednesday	9AM–9PM
+Thursday	9AM–9PM
+Friday		9AM–9PM
+Saturday	10AM–9PM",https://g.page/barberostulum?share,"20.208194668282893, -87.47122928650727",27.png
+15,Burro Tulum,,"Restaurant, Bakery",Street tacos,"Sunday		Closed
+Monday		5–10:30PM
+Tuesday		5–10:30PM
+Wednesday	5–10:30PM
+Thursday	5–10:30PM
+Friday		5–10:30PM
+Saturday	5–10:30PM",https://goo.gl/maps/NpNw8D7gZf2FSZ3x7,"20.202552664229383, -87.47316976495847",15.jpg
+18,Cancha deportiva,,Soccer field,"Small basketball court, often without nets.  Tiny playground for kids.  Check for sharp edges before you let your child play here.  (Note:  There’s a massive park on the other side of the main road with a tennis court, baseball fiend, multiple soccer fields, basketball courts with overhead protection from sun / rain:  https://goo.gl/maps/bamB7uWP5Vpxud1W9)",,https://goo.gl/maps/FjVUhWXV3mZWDmd29,"20.20255231264703, -87.47248712937635",18.jpg
+21,Canova,,"Restaurant, Bakery, Cafe","A date spot at night to get Italian food.  Good service.  The manager is in the trenches here, really making sure everything runs smoothly.  Can sit inside or underneath the open-air palapa.","Sunday		6–11PM
+Monday		Closed
+Tuesday		6–11PM
+Wednesday	6–11PM
+Thursday	6–11PM
+Friday		6–11PM
+Saturday	6–11PM",https://goo.gl/maps/EjFZfKsD8Y56xgB46,"20.20325428986398, -87.47231848946733",21.jpg
+45,Casa Atica,1,,"World-class home furnishings.  Same team behind Terreo Studio, quite possibly the best home-builder in Tulum.  https://www.instagram.com/terreostudio/","Sunday       Closed
+Monday		10AM–7PM
+Tuesday		10AM–7PM
+Wednesday	10AM–7PM
+Thursday	10AM–7PM
+Friday		10AM–7PM
+Saturday	10AM–2PM",https://g.page/CasaAtica?share,"20.205323146428153, -87.47968287116424",45.jpg
 8,Chiquilin Stew Tacos,,"Restaurant, Bakery", “Bowls Royce” - the Rolls Royce of bowl food.,"Sunday		Closed
 Monday		9AM–1PM
 Tuesday		9AM–1PM
@@ -62,6 +56,90 @@ Wednesday	8:30AM–6PM
 Thursday	8:30AM–6PM
 Friday		8:30AM–6PM
 Saturday	8:30AM–6PM",https://goo.gl/maps/WUxcZg6ksbBc5oe2A,"20.202192612706924, -87.47559219816529",9.jpg
+24,Clean Club,,,"Well-run laundry service.  Drop it and pick it up the next day.  (Note:  It’s right next to Kukuruxo Gelato, which is the pin I’m using for the map.)","Sunday		Closed
+Monday		9AM–6PM
+Tuesday		9AM–6PM
+Wednesday	9AM–6PM
+Thursday	9AM–6PM
+Friday		9AM–6PM
+Saturday	9AM–6PM",https://goo.gl/maps/ifP5k2tqxs6VhoBY7,"20.20338621500445, -87.4715126938371",24.png
+46,Digital Jungle,,Cafe,Co-working space.  Daily drop-in is about $15 USD.  Long-term plans more common.  Indoor and outdoor seating.,"Sunday		Closed
+Monday		7AM–9PM
+Tuesday		7AM–9PM
+Wednesday	7AM–9PM
+Thursday	7AM–9PM
+Friday		7AM–9PM
+Saturday	8AM–6PM",https://g.page/tulum-digital-jungle?share,"20.20492450977869, -87.47943571349273",46.png
+31,El Camello Jr.,1,"Restaurant, Bakery","Good local ceviche spot for a great price. They deliver, but you have to call them direct. +52 984 871 2036.  You’ll get a bag of tiny, sliced green peppers with your delivery.  They’re spicy, but make the ceviche taste great, if you can handle the heat.","Sunday		10AM–10PM
+Monday		10AM–10PM
+Tuesday		10AM–10PM
+Wednesday	Closed
+Thursday	10AM–10PM
+Friday		10AM–10PM
+Saturday	10AM–10PM",https://g.page/elcamellojr?share,"20.208528978256343, -87.47148432883576",31.jpg
+29,Farmacia YSA,,Pharmacy,,"Sunday		5AM–11PM
+Monday		5AM–11PM
+Tuesday		5AM–11PM
+Wednesday	5AM–11PM
+Thursday	5AM–11PM
+Friday		5AM–11PM
+Saturday	5AM–11PM",https://goo.gl/maps/EJceAToMiaxDTzm56,"20.208487635403237, -87.47123814850353",29.jpg
+43,Gypsea Market,,"Grocery, Supermarket, Restaurant, Bakery, Cafe","Imagine Whole Foods.  Their tote bags are kinda a status symbol for some people in Tulum, to show they’re a local.","Sunday		7AM–11PM
+Monday		7AM–11PM
+Tuesday		7AM–11PM
+Wednesday	7AM–11PM
+Thursday	7AM–11PM
+Friday		7AM–11PM
+Saturday	7AM–11PM",https://g.page/gypseamarket?share,"20.205731345794554, -87.47966695767151",43.jpg
+36,Hell Yeah!,,"Restaurant, Bakery",Don’t let the peculiar name throw you off.  Actually really nice.  They even have a swimming pool here.,"Sunday		8AM–6PM
+Monday		8AM–6PM
+Tuesday		8AM–6PM
+Wednesday	8AM–6PM
+Thursday	8AM–6PM
+Friday		8AM–6PM
+Saturday	8AM–6PM",https://goo.gl/maps/4nKm2HkrXru9sWvs6,"20.20764280401951, -87.47296067463633",36.jpg
+28,Hunab Ku,,"Restaurant, Bakery, Cafe","Excellent food.  Known for their breakfast, but I’d recommend the “Hunab Ku Focaccia” sandwhich.  Homemade bread.  Definitely check out this spot, but know that Kukulkan is the route semi trucks have to take as they’re not allowed to go through town.  Street in front is a bit hectic.","Sunday		7AM–3PM
+Monday		7AM–3PM
+Tuesday		7AM–3PM
+Wednesday	Closed
+Thursday	7AM–3PM
+Friday		7AM–3PM
+Saturday	7AM–3PM",https://goo.gl/maps/rCQmxhBhwBHiTEQr9,"20.208125444467218, -87.47119164340968",28.jpeg
+14,Il Bacaro La Veleta,,"Restaurant, Bakery",Nice dinner spot.  They also have one in town.,"Sunday		12PM–12AM
+Monday		12PM–12AM
+Tuesday		12PM–12AM
+Wednesday	12PM–12AM
+Thursday	12PM–12AM
+Friday		12PM–12AM
+Saturday	12PM–12AM",https://goo.gl/maps/1HC2Pc36PgLFVHGo7,"20.20299033314401, -87.47356807045225",14.jpg
+44,Italdo,1,"Restaurant, Bakery, Cafe",Italian-owned.  Very famous place. Amazing sweets and breads. European style pizzas.  Can be difficult to get a table in the mornings.,"Sunday		AM–8PM
+Monday		8AM–8PM
+Tuesday		8AM–8PM
+Wednesday	8AM–8PM
+Thursday	8AM–8PM
+Friday		8AM–8PM
+Saturday	8AM–8PM",https://goo.gl/maps/DXEmpb3LweczbxwZ9,"20.205473823050266, -87.47937830108121",44.jpg
+47,Jugos Naturales,,Convenience Store,Well-known spot to grab a big coconut juice.,"Sunday		Closed
+Monday		7AM–5PM
+Tuesday		7AM–5PM
+Wednesday	6:56AM–5PM
+Thursday	7AM–5PM
+Friday		7AM–5PM
+Saturday	7AM–5PM",https://goo.gl/maps/GeLqoy8fa17dBk886,"20.202093547228156, -87.47920470321716",47.jpg
+20,Káapeh Tulum,1,"Restaurant, Bakery, Cafe",Totally chill / unpretentious coffee shop owned by some nice people from Veracruz.,"Sunday		8:30–4PM
+Monday		8:30–4PM
+Tuesday		8:30–4PM
+Wednesday	Closed
+Thursday	8:30–4PM
+Friday		8:30–4PM
+Saturday	8:30–4PM",https://goo.gl/maps/NgBsfihPt1wbQyHE6,"20.20313472368311, -87.4724351655562",20.jpg
+38,Ki'bok Coffee Tulum,1,"Restaurant, Bakery, Cafe","They understand coffee and their food is very good.  A Mexican / U.S. style-spot by day, and a Japanese restaurant at night.","Sunday		7AM–5PM
+Monday		7AM–9PM
+Tuesday		7AM–9PM
+Wednesday	7AM–9PM
+Thursday	7AM–9PM
+Friday		10AM–9PM
+Saturday	7AM–9PM",https://goo.gl/maps/bYmdTFrodeMdpgbC8,"20.207592515540814, -87.47392512120601",38.png
 10,La Babieca,,"Restaurant, Bakery",,"Sunday		7:30AM–11PM
 Monday		7:30AM–11PM
 Tuesday		7:30AM–11PM
@@ -69,6 +147,122 @@ Wednesday	7:30AM–11PM
 Thursday	Closed
 Friday		7:30AM–11PM
 Saturday	7:30AM–11PM",https://goo.gl/maps/nSv1CS2iM8ZZkF1P9,"20.20232222899123, -87.47485988823757",10.jpg
+4,La Casa Del Barrio ,1,"Restaurant, Bakery, Cafe",Go after 3pm so you can sit upstairs. Also the better chef works at this time.  Recommend the fish tacos here.,"Sunday		7AM–3PM
+Monday		7AM–11PM
+Tuesday		7AM–11PM
+Wednesday	7AM–3PM
+Thursday	7AM–11PM
+Friday		7AM–11PM
+Saturday	7AM–11PM",https://goo.gl/maps/LpqurniLNfhDBDdJ6,"20.409135121743013, -87.47280106171743",4.jpg
+26,La Hydra by Gigi,,"Restaurant, Bakery, Cafe",,"Sunday		8AM–10:45PM
+Monday		8AM–10:45PM
+Tuesday		8AM–10:45PM
+Wednesday	Closed
+Thursday	8AM–10:45PM
+Friday		8AM–10:45PM
+Saturday	8AM–10:45PM",https://g.page/hydrabygigi?share,"20.207970647634685, -87.47094150000001",26.jpg
+23,La Pebeta,,"Restaurant, Bakery, Cafe","Breakfast / coffee spot to sit outside and see and be seen.  If they bring around a pastry tray and you accept one, you will be charged, as is customary in most parts of the world.  Just so you’re not surprised thinking that it was a “gift.”","Sunday		Closed
+Monday		8AM–6PM
+Tuesday		8AM–6PM
+Wednesday	8AM–6PM
+Thursday	8AM–6PM
+Friday		8AM–6PM
+Saturday	8AM–6PM",https://goo.gl/maps/uqgWAe4GRuo6tSAHA,"20.20325298148121, -87.47205295786934",23.jpg
+16,La Pizzine,,"Restaurant, Bakery, Cafe",Very hip spot at night to eat pizza and grab a drink. Also good in the morning to post up with a coffee and some simple breakfast such as avocado toast.  There’s also a small tienda (convenience store) next-door.,"Sunday		5:30–11:30PM
+Monday		9AM–11:30PM
+Tuesday		Closed
+Wednesday	9AM–11:30PM
+Thursday	9AM–11:30PM
+Friday		9AM–11:30PM
+Saturday	9AM–11:30PM",https://goo.gl/maps/3Z1qn2S6uPFVSx9y5,"20.2031472598093, -87.4732063077133",16.jpg
+6,La Taqueria,,"Restaurant, Bakery, Cafe","Nice place to sit at night, or in the afternoon.  Expect big-city U.S. prices, or something close.  This commercial block also has ATV rentals, Argentinian ice cream, pet food, and a women’s clothing store.","Sunday		9AM–12AM
+Monday		9AM–12AM
+Tuesday		9AM–12AM
+Wednesday	9AM–12AM
+Thursday	9AM–12AM
+Friday		9AM–12AM
+Saturday	9AM–12AM",https://goo.gl/maps/T3dceUjCXmvaSC9t8,"20.202170592610372, -87.47687562422264",6.jpg
+41,Lophophora,,Cafe,,"Sunday		8AM–8PM
+Monday		8AM–8PM
+Tuesday		8AM–8PM
+Wednesday	8AM–8PM
+Thursday	8AM–8PM
+Friday		8AM–8PM
+Saturday	8AM–8PM",https://goo.gl/maps/kyaLDQuoghGY69129,"20.20618708219468, -87.47835942883574",41.jpg
+32,Los Aguachiles,,"Restaurant, Bakery",Well-known.,"Sunday		12:30–9:30PM
+Monday		12:30–9:30PM
+Tuesday		12:30–9:30PM
+Wednesday	12:30–9:30PM
+Thursday	12:30–9:30PM
+Friday		12:30–9:30PM
+Saturday	12:30–9:30PM",https://goo.gl/maps/hNh5S9ki1JE2aMiR9,"20.20803012249098, -87.47202552217294",32.jpg
+3,Mariachi Bubble Tea ,1,Cafe,,"Sunday		Closed
+Monday		5–9:30PM
+Tuesday		5–9:30PM
+Wednesday	5–9:30PM
+Thursday	5–9:30PM
+Friday		5–9:30PM
+Saturday	5–9:30PM",https://goo.gl/maps/uaiHd5MNFXxYwBHz7,"20.201760949241578, -87.47689565941991",3.jpg
+1,Mini Super El Veleta,,Convenience store,"Open late.  This is the go-to tienda (convenience store) for many people.  They’re stocked to the rafters with all kinds of stuff.  Note:  Mexico prohibits the sale of alcohol after certain hours on certain days.  Let’s just say some places will look the other way, for a fee, if you run into this particular situation.","Sunday		7am - 11:30pm
+Monday		7am - 11:30pm
+Tuesday		7am - 11:30pm
+Wednesday	7am - 11:30pm
+Thursday	7am - 11:30pm
+Friday		7am - 11:30pm
+Saturday	7am - 11:30pm",https://goo.gl/maps/FczujBgzKoEpPZU39,"20.20141856758711, -87.47804030723151",1.jpg
+50,NAAB TULUM,,Lodging,"We loved our stay here! It was an airbnb, and the location was quiet and beautiful. So much jungle around us. Everything worked as expected. My husband the engineer loved the water system they have that cleans the water and refills the underground aquifer, it's very high tech. I loved the roof pool and views of sunset!",,https://goo.gl/maps/DePksqu1M1LThW7J9,"20.19664429160967, -87.48006389999992",50.jpg
+5,Nayna,,"Restaurant, Bakery, Cafe",,"Sunday		Closed
+Monday		9AM–3PM
+Tuesday		9AM–3PM
+Wednesday	9AM–3PM
+Thursday	9AM–3PM
+Friday		9AM–3PM
+Saturday	9AM–3PM",https://goo.gl/maps/xuhBw76CydmQJxjm6,"20.20313505952593, -87.4769730968131",5.jpg
+13,Otti Cacao and Smoothies,,Cafe,Morning spot. Lots of attractive people come here after yoga.,"Sunday		9AM–2PM
+Monday		8:30AM–4PM
+Tuesday		8:30AM–4PM
+Wednesday	8:30AM–4PM
+Thursday	8:30AM–4PM
+Friday		8:30AM–4PM
+Saturday	Closed",https://goo.gl/maps/2yxwfiqbp2PPgkWr7,"20.20277722772552, -87.47373738903998",13.jpeg
+25,Oxxo,,Convenience Store,"Ubiquitous Mexican convenience store.  Check your change.  This location loves to short you 10 pesos, thinking you won’t notice.","Sunday		7:30AM–10PM
+Monday		7:30AM–10PM
+Tuesday		7:30AM–10PM
+Wednesday	7:30AM–10PM
+Thursday	7:30AM–10PM
+Friday		7:30AM–10PM
+Saturday	7:30AM–10PM",https://goo.gl/maps/uaZbJx1iFtew4DhU6,"20.203698122168355, -87.47068708943877",25.jpg
+2,Pepe’s Best Tacos in Tulum ,1,"Restaurant, Bakery",This is your traditional Mexican street tacos stand. Amazing sauces. Recommend the torta.,"Sunday		Closed
+Monday		7–11PM
+Tuesday		7–11PM
+Wednesday	7–11PM
+Thursday	7–11PM
+Friday		7–11PM
+Saturday	7–11PM",https://goo.gl/maps/iqWWTAP5uroGsNFs6,"20.201844016957583, -87.47688493063761",2.jpg
+19,Pharmacy Maya Tulum,,Pharmacy,Popular pharmacy,,https://goo.gl/maps/iUQk8QB3TezJeZZD9,"20.20317147525676, -87.47261543099815",19.jpg
+37,Pizzeria Manglar,,"Restaurant, Bakery",,"Sunday		5–11PM
+Monday		5–11PM
+Tuesday		Closed
+Wednesday	5–11PM
+Thursday	5–11PM
+Friday		5–11PM
+Saturday	5–11PM",https://goo.gl/maps/fnzx4fHQybTyDMvSA,"20.207063147867412, -87.47310668465698",37.jpg
+39,Police,,Police,,,https://goo.gl/maps/pqDskWPU4GLAryDu8,"20.207560835291847, -87.47571930532241",39.jpg
+17,Raum,,"Restaurant, Bakery, Cafe",Same crew / crowd as Pizzine.  Good coffee and healthy food options.  Very Tulum vibe.,Random,https://goo.gl/maps/zyYf5Z3HTedizA229,"20.20307801884608, -87.47306147053796",17.jpg
+34,Sin Etiqueta,,"Restaurant, Bakery, Cafe",,"Sunday		8:30AM–3PM
+Monday		8:30AM–3PM
+Tuesday		Closed
+Wednesday	8:30AM–3PM
+Thursday	8:30AM–3PM
+Friday		8:30AM–3PM
+Saturday	8:30AM–3PM",https://g.page/Sin-Etiqueta?share,"20.206895743987108, -87.47173219999999",34.jpg
+48,Smokey O's BBQ,1,"Restaurant, Bakery","Amazing barbecue spot with an awesome, friendly vibe. The owner, Ociel or “OC” for short, is very knowledgeable about Quintana Roo and speaks fluent English and Spanish.  (He trained under a top barbecue guy in Texas.)  Daniel, the manager, is your go-to with tequila questions.  These guys really care about food, drinks and customer service and it really shows.  They even have Dr. Pepper!  Recommend the brisket plate with two sides.  Try the mac and cheese and coleslaw and munch on pickles.","Sunday		Closed
+Monday		3–10PM
+Tuesday		3–10PM
+Wednesday	3–10PM
+Thursday	3–10PM
+Friday		3–10PM
+Saturday	3–10PM",https://goo.gl/maps/q7e8rMYeD7Qq2KRM8,"20.202095073543106, -87.47925742983338",48.jpeg
 11,TacoBish,,"Restaurant, Bakery",Popular spot. Tasty with a lot of salsa choices. Great corner to people watch. Recommend the taco with a shell made of fried cheese.,"Sunday		11AM–11PM
 Monday		11AM–11PM
 Tuesday		11AM–11PM
@@ -83,234 +277,6 @@ Wednesday	11AM–7PM
 Thursday	11AM–7PM
 Friday		11AM–7PM
 Saturday	11AM–7PM",https://goo.gl/maps/eKCEt6fHu9hXVtVd7,"20.202996108433876, -87.47419859681007",12.jpg
-13,Otti Cacao and Smoothies,,Cafe,Morning spot. Lots of attractive people come here after yoga.,"Sunday		9AM–2PM
-Monday		8:30AM–4PM
-Tuesday		8:30AM–4PM
-Wednesday	8:30AM–4PM
-Thursday	8:30AM–4PM
-Friday		8:30AM–4PM
-Saturday	Closed",https://goo.gl/maps/2yxwfiqbp2PPgkWr7,"20.20277722772552, -87.47373738903998",13.jpeg
-14,Il Bacaro La Veleta,,"Restaurant, Bakery",Nice dinner spot.  They also have one in town.,"Sunday		12PM–12AM
-Monday		12PM–12AM
-Tuesday		12PM–12AM
-Wednesday	12PM–12AM
-Thursday	12PM–12AM
-Friday		12PM–12AM
-Saturday	12PM–12AM",https://goo.gl/maps/1HC2Pc36PgLFVHGo7,"20.20299033314401, -87.47356807045225",14.jpg
-15,Burro Tulum,,"Restaurant, Bakery",Street tacos,"Sunday		Closed
-Monday		5–10:30PM
-Tuesday		5–10:30PM
-Wednesday	5–10:30PM
-Thursday	5–10:30PM
-Friday		5–10:30PM
-Saturday	5–10:30PM",https://goo.gl/maps/NpNw8D7gZf2FSZ3x7,"20.202552664229383, -87.47316976495847",15.jpg
-16,La Pizzine,,"Restaurant, Bakery, Cafe",Very hip spot at night to eat pizza and grab a drink. Also good in the morning to post up with a coffee and some simple breakfast such as avocado toast.  There’s also a small tienda (convenience store) next-door.,"Sunday		5:30–11:30PM
-Monday		9AM–11:30PM
-Tuesday		Closed
-Wednesday	9AM–11:30PM
-Thursday	9AM–11:30PM
-Friday		9AM–11:30PM
-Saturday	9AM–11:30PM",https://goo.gl/maps/3Z1qn2S6uPFVSx9y5,"20.2031472598093, -87.4732063077133",16.jpg
-17,Raum,,"Restaurant, Bakery, Cafe",Same crew / crowd as Pizzine.  Good coffee and healthy food options.  Very Tulum vibe.,Random,https://goo.gl/maps/zyYf5Z3HTedizA229,"20.20307801884608, -87.47306147053796",17.jpg
-18,Cancha deportiva,,,"Small basketball court, often without nets.  Tiny playground for kids.  Check for sharp edges before you let your child play here.  (Note:  There’s a massive park on the other side of the main road with a tennis court, baseball fiend, multiple soccer fields, basketball courts with overhead protection from sun / rain:  https://goo.gl/maps/bamB7uWP5Vpxud1W9)",,https://goo.gl/maps/FjVUhWXV3mZWDmd29,"20.20255231264703, -87.47248712937635",18.jpg
-19,Pharmacy Maya Tulum,,Pharmacy,Popular pharmacy,,https://goo.gl/maps/iUQk8QB3TezJeZZD9,"20.20317147525676, -87.47261543099815",19.jpg
-20,Káapeh Tulum,1,"Restaurant, Bakery, Cafe",Totally chill / unpretentious coffee shop owned by some nice people from Veracruz.,"Sunday		8:30–4PM
-Monday		8:30–4PM
-Tuesday		8:30–4PM
-Wednesday	Closed
-Thursday	8:30–4PM
-Friday		8:30–4PM
-Saturday	8:30–4PM",https://goo.gl/maps/NgBsfihPt1wbQyHE6,"20.20313472368311, -87.4724351655562",20.jpg
-21,Canova,,"Restaurant, Bakery, Cafe","A date spot at night to get Italian food.  Good service.  The manager is in the trenches here, really making sure everything runs smoothly.  Can sit inside or underneath the open-air palapa.","Sunday		6–11PM
-Monday		Closed
-Tuesday		6–11PM
-Wednesday	6–11PM
-Thursday	6–11PM
-Friday		6–11PM
-Saturday	6–11PM",https://goo.gl/maps/EjFZfKsD8Y56xgB46,"20.20325428986398, -87.47231848946733",21.jpg
-22,Tulum Muay Thai,,,The real deal.  Group / private instruction available.  Schedule here:  https://tulummuaythai.com/schedule/,"Sunday		Closed
-Monday		7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
-Tuesday		7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
-Wednesday	7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
-Thursday	7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
-Friday		7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
-Saturday	7:30am - 9am / 9am - 10am",https://goo.gl/maps/YJMCmoDwpFL9JccA8,"20.204235192683388, -87.47346409433484",22.jpeg
-23,La Pebeta,,"Restaurant, Bakery, Cafe","Breakfast / coffee spot to sit outside and see and be seen.  If they bring around a pastry tray and you accept one, you will be charged, as is customary in most parts of the world.  Just so you’re not surprised thinking that it was a “gift.”","Sunday		Closed
-Monday		8AM–6PM
-Tuesday		8AM–6PM
-Wednesday	8AM–6PM
-Thursday	8AM–6PM
-Friday		8AM–6PM
-Saturday	8AM–6PM",https://goo.gl/maps/uqgWAe4GRuo6tSAHA,"20.20325298148121, -87.47205295786934",23.jpg
-24,Clean Club,,,"Well-run laundry service.  Drop it and pick it up the next day.  (Note:  It’s right next to Kukuruxo Gelato, which is the pin I’m using for the map.)","Sunday		Closed
-Monday		9AM–6PM
-Tuesday		9AM–6PM
-Wednesday	9AM–6PM
-Thursday	9AM–6PM
-Friday		9AM–6PM
-Saturday	9AM–6PM",https://goo.gl/maps/ifP5k2tqxs6VhoBY7,"20.20338621500445, -87.4715126938371",24.png
-25,Oxxo,,Convenience Store,"Ubiquitous Mexican convenience store.  Check your change.  This location loves to short you 10 pesos, thinking you won’t notice.","Sunday		7:30AM–10PM
-Monday		7:30AM–10PM
-Tuesday		7:30AM–10PM
-Wednesday	7:30AM–10PM
-Thursday	7:30AM–10PM
-Friday		7:30AM–10PM
-Saturday	7:30AM–10PM",https://goo.gl/maps/uaZbJx1iFtew4DhU6,"20.203698122168355, -87.47068708943877",25.jpg
-26,La Hydra by Gigi,,"Restaurant, Bakery, Cafe",,"Sunday		8AM–10:45PM
-Monday		8AM–10:45PM
-Tuesday		8AM–10:45PM
-Wednesday	Closed
-Thursday	8AM–10:45PM
-Friday		8AM–10:45PM
-Saturday	8AM–10:45PM",https://g.page/hydrabygigi?share,"20.207970647634685, -87.47094150000001",26.jpg
-27,Barberos Tulum,,,"Excellent service and price.  Pay about $12 USD for just a basic cut.  Would recommend this way more than other locations.  They use high-end equipment and every barber I’ve seen there is committed to doing an excellent job.  Best fades I’ve found.  Lot of hipsters also satisfied with intricate cuts here.  Go-to for all types of hair from all ethnicities.  (Many black men also seem to like “The Hustler”, but I don’t have experience there and know that establishment charges more, if that’s important.)","Sunday		10AM–8PM
-Monday		9AM–9PM
-Tuesday		9AM–9PM
-Wednesday	9AM–9PM
-Thursday	9AM–9PM
-Friday		9AM–9PM
-Saturday	10AM–9PM",https://g.page/barberostulum?share,"20.208194668282893, -87.47122928650727",27.png
-28,Hunab Ku,,"Restaurant, Bakery, Cafe","Excellent food.  Known for their breakfast, but I’d recommend the “Hunab Ku Focaccia” sandwhich.  Homemade bread.  Definitely check out this spot, but know that Kukulkan is the route semi trucks have to take as they’re not allowed to go through town.  Street in front is a bit hectic.","Sunday		7AM–3PM
-Monday		7AM–3PM
-Tuesday		7AM–3PM
-Wednesday	Closed
-Thursday	7AM–3PM
-Friday		7AM–3PM
-Saturday	7AM–3PM",https://goo.gl/maps/rCQmxhBhwBHiTEQr9,"20.208125444467218, -87.47119164340968",28.jpeg
-29,Farmacia YSA,,Pharmacy,,"Sunday		5AM–11PM
-Monday		5AM–11PM
-Tuesday		5AM–11PM
-Wednesday	5AM–11PM
-Thursday	5AM–11PM
-Friday		5AM–11PM
-Saturday	5AM–11PM",https://goo.gl/maps/EJceAToMiaxDTzm56,"20.208487635403237, -87.47123814850353",29.jpg
-30,Banco Azteca,,"ATM, Bank","Small max withdrawal limits from the single ATM.  (ATM works 24 hours.)  Currently 6k pesos.  (About $300 USD.). Recommended to go to HSBC in town.  There you can pull up to 15k in one pop, and do multiple withdrawals back-to-back-to-back.  The middle ATM at HSBC also dispenses USD.  There are also a lot of ATMs inside Chedraui, for instance Citibank and BaNorte (lowest two withdrawal fees at under $2 each.). Note:  Don’t be surprised if many ATMs are empty on Monday mornings or after long / holiday weekends.  Also, highly recommend travelers use the Charles Schwab Invest First Visa.  No ATM fees, and they reimburse you all ATM fees you incur abroad.  Amazing.  Not to mention if you deny the exchange conversion on an ATM, allowing Schwab to do the conversion, you’ll get the mid-market rate, which is what you see on XE.com.  If you hit the “accept exchange rate” on an ATM, you’re getting robbed around 5.5%.","Sunday		9AM–9PM
-Monday		9AM–9PM
-Tuesday		9AM–9PM
-Wednesday	9AM–9PM
-Thursday	9AM–9PM
-Friday		9AM–9PM
-Saturday	9AM–9PM",https://goo.gl/maps/tYwBtdDW4xiirHAv6,"20.208389241668677, -87.47125625582122",30.jpg
-31,El Camello Jr.,1,"Restaurant, Bakery","Good local ceviche spot for a great price. They deliver, but you have to call them direct. +52 984 871 2036.  You’ll get a bag of tiny, sliced green peppers with your delivery.  They’re spicy, but make the ceviche taste great, if you can handle the heat.","Sunday		10AM–10PM
-Monday		10AM–10PM
-Tuesday		10AM–10PM
-Wednesday	Closed
-Thursday	10AM–10PM
-Friday		10AM–10PM
-Saturday	10AM–10PM",https://g.page/elcamellojr?share,"20.208528978256343, -87.47148432883576",31.jpg
-32,Los Aguachiles,,"Restaurant, Bakery",Well-known.,"Sunday		12:30–9:30PM
-Monday		12:30–9:30PM
-Tuesday		12:30–9:30PM
-Wednesday	12:30–9:30PM
-Thursday	12:30–9:30PM
-Friday		12:30–9:30PM
-Saturday	12:30–9:30PM",https://goo.gl/maps/hNh5S9ki1JE2aMiR9,"20.20803012249098, -87.47202552217294",32.jpg
-33,Tulum Jungle Gym Pueblo,,,Same chain as the Instagram famous one by the beach.,"Sunday		8AM–4PM
-Monday		7AM–7PM
-Tuesday		7AM–7PM
-Wednesday	7AM–7PM
-Thursday	7AM–7PM
-Friday		7AM–7PM
-Saturday	8AM–4PM",https://g.page/tulum-jungle-gym-pueblo?share,"20.20770637427423, -87.47347327116424",33.jpg
-34,Sin Etiqueta,,"Restaurant, Bakery, Cafe",,"Sunday		8:30AM–3PM
-Monday		8:30AM–3PM
-Tuesday		Closed
-Wednesday	8:30AM–3PM
-Thursday	8:30AM–3PM
-Friday		8:30AM–3PM
-Saturday	8:30AM–3PM",https://g.page/Sin-Etiqueta?share,"20.206895743987108, -87.47173219999999",34.jpg
-35,Xiximak,,"Restaurant, Bakery, Cafe",,"Sunday		11AM–11PM
-Monday		11AM–11PM
-Tuesday		6–11PM
-Wednesday	11AM–11PM
-Thursday	11AM–11PM
-Friday		11AM–11PM
-Saturday	11AM–11PM",https://goo.gl/maps/LkbSjAxrviF6NCXPA,"20.206472866763512, -87.47145326777571",35.jpg
-36,Hell Yeah!,,"Restaurant, Bakery",Don’t let the peculiar name throw you off.  Actually really nice.  They even have a swimming pool here.,"Sunday		8AM–6PM
-Monday		8AM–6PM
-Tuesday		8AM–6PM
-Wednesday	8AM–6PM
-Thursday	8AM–6PM
-Friday		8AM–6PM
-Saturday	8AM–6PM",https://goo.gl/maps/4nKm2HkrXru9sWvs6,"20.20764280401951, -87.47296067463633",36.jpg
-37,Pizzeria Manglar,,"Restaurant, Bakery",,"Sunday		5–11PM
-Monday		5–11PM
-Tuesday		Closed
-Wednesday	5–11PM
-Thursday	5–11PM
-Friday		5–11PM
-Saturday	5–11PM",https://goo.gl/maps/fnzx4fHQybTyDMvSA,"20.207063147867412, -87.47310668465698",37.jpg
-38,Ki'bok Coffee Tulum,1,"Restaurant, Bakery, Cafe","They understand coffee and their food is very good.  A Mexican / U.S. style-spot by day, and a Japanese restaurant at night.","Sunday		7AM–5PM
-Monday		7AM–9PM
-Tuesday		7AM–9PM
-Wednesday	7AM–9PM
-Thursday	7AM–9PM
-Friday		10AM–9PM
-Saturday	7AM–9PM",https://goo.gl/maps/bYmdTFrodeMdpgbC8,"20.207592515540814, -87.47392512120601",38.png
-39,Police,,Police,,,https://goo.gl/maps/pqDskWPU4GLAryDu8,"20.207560835291847, -87.47571930532241",39.jpg
-40,Tulum CrossFit,,,,"Sunday		Closed
-Monday		7–11AM, 5–9PM
-Tuesday		7–11AM, 5–9PM
-Wednesday	7–11AM, 5–9PM
-Thursday	7–11AM, 5–9PM
-Friday		7–11AM, 5–8PM
-Saturday	8AM–12PM",https://goo.gl/maps/XjFVyoWC3eXrq4Tv9,"20.206192664918273, -87.4772128957588",40.jpg
-41,Lophophora,,Cafe,,"Sunday		8AM–8PM
-Monday		8AM–8PM
-Tuesday		8AM–8PM
-Wednesday	8AM–8PM
-Thursday	8AM–8PM
-Friday		8AM–8PM
-Saturday	8AM–8PM",https://goo.gl/maps/kyaLDQuoghGY69129,"20.20618708219468, -87.47835942883574",41.jpg
-42,Asian Bodega,,"Restaurant, Bakery",Goes off at night at times.,"Sunday		6–10:30PM
-Monday		6–10:30PM
-Tuesday		6–11PM
-Wednesday	Closed
-Thursday	6–10:30PM
-Friday		6–10:30PM
-Saturday	6–10:30PM",https://goo.gl/maps/NjZrWiAreCQRWapx6,"20.20614338242074, -87.4784341635345",42.jpg
-43,Gypsea Market,,"Grocery, Supermarket, Restaurant, Bakery, Cafe","Imagine Whole Foods.  Their tote bags are kinda a status symbol for some people in Tulum, to show they’re a local.","Sunday		7AM–11PM
-Monday		7AM–11PM
-Tuesday		7AM–11PM
-Wednesday	7AM–11PM
-Thursday	7AM–11PM
-Friday		7AM–11PM
-Saturday	7AM–11PM",https://g.page/gypseamarket?share,"20.205731345794554, -87.47966695767151",43.jpg
-44,Italdo,1,"Restaurant, Bakery, Cafe",Italian-owned.  Very famous place. Amazing sweets and breads. European style pizzas.  Can be difficult to get a table in the mornings.,"Sunday		AM–8PM
-Monday		8AM–8PM
-Tuesday		8AM–8PM
-Wednesday	8AM–8PM
-Thursday	8AM–8PM
-Friday		8AM–8PM
-Saturday	8AM–8PM",https://goo.gl/maps/DXEmpb3LweczbxwZ9,"20.205473823050266, -87.47937830108121",44.jpg
-45,Casa Atica,1,,"World-class home furnishings.  Same team behind Terreo Studio, quite possibly the best home-builder in Tulum.  https://www.instagram.com/terreostudio/","Sunday       Closed
-Monday		10AM–7PM
-Tuesday		10AM–7PM
-Wednesday	10AM–7PM
-Thursday	10AM–7PM
-Friday		10AM–7PM
-Saturday	10AM–2PM",https://g.page/CasaAtica?share,"20.205323146428153, -87.47968287116424",45.jpg
-46,Digital Jungle,,Cafe,Co-working space.  Daily drop-in is about $15 USD.  Long-term plans more common.  Indoor and outdoor seating.,"Sunday		Closed
-Monday		7AM–9PM
-Tuesday		7AM–9PM
-Wednesday	7AM–9PM
-Thursday	7AM–9PM
-Friday		7AM–9PM
-Saturday	8AM–6PM",https://g.page/tulum-digital-jungle?share,"20.20492450977869, -87.47943571349273",46.png
-47,Jugos Naturales,,Convenience Store,Well-known spot to grab a big coconut juice.,"Sunday		Closed
-Monday		7AM–5PM
-Tuesday		7AM–5PM
-Wednesday	6:56AM–5PM
-Thursday	7AM–5PM
-Friday		7AM–5PM
-Saturday	7AM–5PM",https://goo.gl/maps/GeLqoy8fa17dBk886,"20.202093547228156, -87.47920470321716",47.jpg
-48,Smokey O's BBQ,1,"Restaurant, Bakery","Amazing barbecue spot with an awesome, friendly vibe. The owner, Ociel or “OC” for short, is very knowledgeable about Quintana Roo and speaks fluent English and Spanish.  (He trained under a top barbecue guy in Texas.)  Daniel, the manager, is your go-to with tequila questions.  These guys really care about food, drinks and customer service and it really shows.  They even have Dr. Pepper!  Recommend the brisket plate with two sides.  Try the mac and cheese and coleslaw and munch on pickles.","Sunday		Closed
-Monday		3–10PM
-Tuesday		3–10PM
-Wednesday	3–10PM
-Thursday	3–10PM
-Friday		3–10PM
-Saturday	3–10PM",https://goo.gl/maps/q7e8rMYeD7Qq2KRM8,"20.202095073543106, -87.47925742983338",48.jpeg
 49,Tierra @ Holistika,,"Restaurant, Bakery, Cafe","Mostly vegan restaurant at Holistika, which is one of the backbones of Tulum.  Last I checked the eggs they serve at breakfast are real, the meat they serve for many of the other things are Beyond Meat.  You can pay about $20 USD here for a day pass to use their swimming pools.  The one in front is the famous one with the hammocks over the water.  Expect people to be taking a lot of pics here.  The one in the back is less Instagrammable, and the one I prefer.  You can often chill here for hours and see no one or only a few people.  Better yet, check them both out.  Also, the yoga schedule is posted on a board right when you walk into the main Holistika property.  Holistika’s yoga classes are literally world-famous.
 ","Sunday		8AM–10PM
 Monday		8AM–10PM
@@ -319,4 +285,38 @@ Wednesday	8AM–10PM
 Thursday	8AM–10PM
 Friday		8AM–10PM
 Saturday	8AM–10PM",https://goo.gl/maps/i4pmkXir2kTDkvMh9,"20.20084207779301, -87.48203531349273",49.jpg
-50,NAAB TULUM,,Lodging,"We loved our stay here! It was an airbnb, and the location was quiet and beautiful. So much jungle around us. Everything worked as expected. My husband the engineer loved the water system they have that cleans the water and refills the underground aquifer, it's very high tech. I loved the roof pool and views of sunset!",,https://goo.gl/maps/DePksqu1M1LThW7J9,"20.19664429160967, -87.48006389999992",50.jpg
+7,Tres Galeones Tulum,,"Restaurant, Bakery",Palapa shaped like a boat. Food and service is outstanding. Only thing that gives me pause is they always bake in a tip / service charge of 15% and then ask you for another tip when you pay.,"Sunday		5PM–12AM
+Monday		5PM–12AM
+Tuesday		5PM–12AM
+Wednesday	5PM–12AM
+Thursday	5PM–12AM
+Friday		5PM–12AM
+Saturday	5PM–12AM",https://goo.gl/maps/C9bpHCzMpkpMTHFW8,"20.201974881919515, -87.47632975893542",7.jpg
+40,Tulum CrossFit,,Fitness center,,"Sunday		Closed
+Monday		7–11AM, 5–9PM
+Tuesday		7–11AM, 5–9PM
+Wednesday	7–11AM, 5–9PM
+Thursday	7–11AM, 5–9PM
+Friday		7–11AM, 5–8PM
+Saturday	8AM–12PM",https://goo.gl/maps/XjFVyoWC3eXrq4Tv9,"20.206192664918273, -87.4772128957588",40.jpg
+33,Tulum Jungle Gym Pueblo,,,Same chain as the Instagram famous one by the beach.,"Sunday		8AM–4PM
+Monday		7AM–7PM
+Tuesday		7AM–7PM
+Wednesday	7AM–7PM
+Thursday	7AM–7PM
+Friday		7AM–7PM
+Saturday	8AM–4PM",https://g.page/tulum-jungle-gym-pueblo?share,"20.20770637427423, -87.47347327116424",33.jpg
+22,Tulum Muay Thai,,Sports school,The real deal.  Group / private instruction available.  Schedule here:  https://tulummuaythai.com/schedule/,"Sunday		Closed
+Monday		7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
+Tuesday		7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
+Wednesday	7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
+Thursday	7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
+Friday		7:30am - 9am / 9am - 10am / 3pm - 4:30pm / 4:30 - 6pm / 6 - 7pm
+Saturday	7:30am - 9am / 9am - 10am",https://goo.gl/maps/YJMCmoDwpFL9JccA8,"20.204235192683388, -87.47346409433484",22.jpeg
+35,Xiximak,,"Restaurant, Bakery, Cafe",,"Sunday		11AM–11PM
+Monday		11AM–11PM
+Tuesday		6–11PM
+Wednesday	11AM–11PM
+Thursday	11AM–11PM
+Friday		11AM–11PM
+Saturday	11AM–11PM",https://goo.gl/maps/LkbSjAxrviF6NCXPA,"20.206472866763512, -87.47145326777571",35.jpg

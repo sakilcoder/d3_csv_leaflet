@@ -31,8 +31,8 @@ var map = L.map('map', {
 map.options.minZoom = 14;
 
 var baseLayers = {
-    'Street': googleTerrain,
-    'Satellite': googleSat,
+    'Google': googleTerrain,
+    'Carto': basemapCartoNoLabels,
     'No Basemap': noBasemap,
     // 'OSM': OpenStreetMap_Mapnik,
 

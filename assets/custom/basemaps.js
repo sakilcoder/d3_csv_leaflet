@@ -46,7 +46,15 @@ var googleTerrain = L.tileLayer('http://{s}.google.com/vt/lyrs=p&x={x}&y={y}&z={
     subdomains:['mt0','mt1','mt2','mt3']
 });
 
+var basemapCarto = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+	attribution: '',
+	maxZoom: 20,
+});
 
+var basemapCartoNoLabels = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
+        attribution: '',
+		maxZoom: 20,
+    });
 
 var noBasemap=L.tileLayer('',{
 	maxZoom: 20
