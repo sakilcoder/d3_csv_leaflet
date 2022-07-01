@@ -25,14 +25,14 @@ var markers = L.layerGroup();
 var map = L.map('map', {
     center: [20.204919296905683, -87.47374525771015],
     zoom: 16,
-    layers: [googleTerrain, aoiLayer, markers] // default checked layers
+    layers: [basemapCarto, aoiLayer, markers] // default checked layers
 });
 
 map.options.minZoom = 14;
 
 var baseLayers = {
+    'Carto': basemapCarto,
     'Google': googleTerrain,
-    'Carto': basemapCartoNoLabels,
     'No Basemap': noBasemap,
     // 'OSM': OpenStreetMap_Mapnik,
 

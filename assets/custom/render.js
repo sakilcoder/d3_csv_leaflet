@@ -129,40 +129,40 @@ var getIcon = function (type) {
     let gi2 = '';
     let gi3 = '';
     if (type == 'Restaurant, Bakery' || type == 'Restaurant, Bakery, Cafe') {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">restaurant</i>';
-        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:16px; color: #026102">restaurant</i>';
-        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">restaurant</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #f9970a">restaurant</i>';
+        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:18px; color: #f9970a">restaurant</i>';
+        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #f9970a">restaurant</i>';
     } else if (type == 'Grocery, Supermarket, Restaurant, Bakery, Cafe') {
-        gi = '<i class="fas fa-shopping-cart" style="font-size:12px; color: #026102"></i>';
-        gi2 = '<i class="fas fa-shopping-cart" style="font-size:14px; color: #026102"></i>';
-        gi3 = '<i class="fas fa-shopping-cart" style="font-size:56px; color: #026102"></i>';
+        gi = '<i class="fas fa-shopping-cart" style="font-size:14px; color: #3d94f4"></i>';
+        gi2 = '<i class="fas fa-shopping-cart" style="font-size:16px; color: #3d94f4"></i>';
+        gi3 = '<i class="fas fa-shopping-cart" style="font-size:56px; color: #3d94f4"></i>';
     } else if (type === 'Convenience store') {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">store_mall_directory</i>';
-        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:16px; color: #026102">store_mall_directory</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #026102">store_mall_directory</i>';
+        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:18px; color: #026102">store_mall_directory</i>';
         gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">store_mall_directory</i>';
     } else if (type == 'Cafe') {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">local_cafe</i>';
-        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:16px; color: #026102">local_cafe</i>';
-        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">local_cafe</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #f75f8f">local_cafe</i>';
+        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:18px; color: #f75f8f">local_cafe</i>';
+        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #f75f8f">local_cafe</i>';
     } else if (type == 'Pharmacy') {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">local_pharmacy</i>';
-        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:16px; color: #026102">local_pharmacy</i>';
-        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">local_pharmacy</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #f75f8f">local_pharmacy</i>';
+        gi2 = '<i class="material-icons g-icon-i-l" style="font-size:18px; color: #f75f8f">local_pharmacy</i>';
+        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #f75f8f">local_pharmacy</i>';
     } else if (type == 'ATM, Bank') {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">local_atm</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:16px; color: #026102">local_atm</i>';
-        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">local_atm</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #f75f8f">local_atm</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #f75f8f">local_atm</i>';
+        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #f75f8f">local_atm</i>';
     } else if (type == 'Police') {
-        gi = '<i class="fas fa-user-shield g-icon-i" style="font-size:12px; color: #026102"></i>';
-        gi2 = '<i class="fas fa-user-shield g-icon-i-l" style="font-size:14px; color: #026102"></i>';
-        gi3 = '<i class="fas fa-user-shield g-icon-i-l" style="font-size:56px; color: #026102"></i>';
+        gi = '<i class="fas fa-user-shield g-icon-i" style="font-size:14px; color: #f75f8f"></i>';
+        gi2 = '<i class="fas fa-user-shield g-icon-i-l" style="font-size:16px; color: #f75f8f"></i>';
+        gi3 = '<i class="fas fa-user-shield g-icon-i-l" style="font-size:56px; color: #f75f8f"></i>';
     } else if (type == 'Lodging' || type == 'Hotel') {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">hotel</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:16px; color: #026102">hotel</i>';
-        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">hotel</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #f75f8f">hotel</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #f75f8f">hotel</i>';
+        gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #f75f8f">hotel</i>';
     } else {
-        gi = '<i class="material-icons g-icon-i" style="font-size:14px; color: #026102">place</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:16px; color: #026102">place</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #026102">place</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #026102">place</i>';
         gi3 = '<i class="material-icons g-icon-i-l" style="font-size:56px; color: #026102">place</i>';
     }
     var icon1 = GoogleIcon('<span class="g-icon">' + gi + '</span>');
