@@ -90,7 +90,7 @@ L.easyButton('fa-home fa-lg', function () {
 
 let infoView = 1;
 var infoPanel = document.getElementById("info");
-L.easyButton('fa-navicon fa-lg', function () {
+L.easyButton('fa fa-bars fa-lg', function () {
     if (infoView == 1) {
         infoView = 0;
         infoPanel.style.display = "none";
